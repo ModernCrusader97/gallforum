@@ -1,0 +1,7 @@
+arcalive-server
+arcalive.db
+uploads/
+*.db
+.env
+frontend/node_modules/
+frontend/dist/
